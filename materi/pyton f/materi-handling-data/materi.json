@@ -1,0 +1,39 @@
+{
+    "title":"biodata,",
+    "total":5,
+    "status_santri":true,
+    "status_lulus":false,
+    "pelajaran": ["MTK","Arabic","B.Indo","IT"],
+    "surah":[
+        {
+            "no":1,
+            "nama":"Al fatihah",
+            "ayat":7,
+            "turun":"Mekkah"
+        },
+        {
+            "no":2,
+            "nama":"Al baqoroh",
+            "ayat":286,
+            "turun":"Madinah"
+        },
+        {
+            "no":3,
+            "nama":"Ali imron",
+            "ayat":200,
+            "turun":"Madinah"
+        
+        },
+        {
+            "no":4,
+            "nama":"An nisa",
+            "ayat":197,
+            "turun":"Mekkah"
+        
+        }
+    ]
+
+
+    
+}
+
